@@ -135,3 +135,36 @@ Cursor IDE · Claude AI
 ---
 
 ## 📁 Repository Structure
+flutter-engineer-90days/
+├── month-01-riverpod-mastery/
+│   ├── week-01-foundation/
+│   │   ├── 01_inherited_widget/
+│   │   ├── 02_provider_migration/
+│   │   ├── 03_riverpod_basics/
+│   │   ├── 04_async_notifier/
+│   │   └── 05_ref_patterns/
+│   ├── week-02-advanced-patterns/
+│   ├── week-03-clean-architecture/
+│   └── week-04-testing/
+├── month-02-fullstack/
+│   ├── week-05-advanced-ui/
+│   ├── week-06-firebase/
+│   ├── week-07-supabase/
+│   └── week-08-performance/
+└── month-03-ship-and-earn/
+├── week-09-product-thinking/
+├── week-10-killer-app/
+├── week-11-ship/
+└── week-12-freelance-ready/
+
+---
+
+## 🔗 Connect
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/m-zubair011/)
+- 📍 Rawalpindi, Pakistan
+
+---
+
+*"The expert in anything was once a beginner 
+who refused to give up."*
