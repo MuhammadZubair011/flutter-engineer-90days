@@ -62,7 +62,7 @@ Real code. Real learning. Real growth.
 > Understanding state management from the roots
 
 - [x] Day 1 — Raw InheritedWidget counter (no packages) ✅
-- [ ] Day 2 — Provider migration + why Riverpod exists
+- [x] Day 2 — Provider migration + why Riverpod exists
 - [ ] Day 3 — FutureProvider + AsyncValue weather app
 - [ ] Day 4 — AsyncNotifierProvider full CRUD todo app
 - [ ] Day 5 — ref.watch vs ref.read vs ref.listen
