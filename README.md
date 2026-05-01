@@ -3,7 +3,7 @@
 > Documenting my commitment to mastering Flutter 
 > at a senior engineering level.
 
-**Started:** May 2025 | **Goal:** August 2025  
+**Started:** April 2026 | **Goal:** July 2026  
 **Experience:** 2 years Flutter Development  
 **Focus:** Architecture · Full Stack · Real Products
 
@@ -39,10 +39,10 @@ Real code. Real learning. Real growth.
 
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 5  | Advanced UI + Custom Painters + Animations | ⏳ Upcoming |
-| Week 6  | Firebase Mastery (Auth, Firestore, Functions, FCM) | ⏳ Upcoming |
-| Week 7  | Supabase + REST APIs + Local Database | ⏳ Upcoming |
-| Week 8  | Performance + Platform Channels + CI/CD | ⏳ Upcoming |
+| Week 5 | Advanced UI + Custom Painters + Animations | ⏳ Upcoming |
+| Week 6 | Firebase Mastery (Auth, Firestore, Functions, FCM) | ⏳ Upcoming |
+| Week 7 | Supabase + REST APIs + Local Database | ⏳ Upcoming |
+| Week 8 | Performance + Platform Channels + CI/CD | ⏳ Upcoming |
 
 ### 🟠 Month 3 — Ship & Earn
 *Real products. Real users. Real impact.*
@@ -61,7 +61,7 @@ Real code. Real learning. Real growth.
 ### 🔄 Week 1 — Riverpod Foundation
 > Understanding state management from the roots
 
-- [ ] Day 1 — Raw InheritedWidget counter (no packages)
+- [x] Day 1 — Raw InheritedWidget counter (no packages) ✅
 - [ ] Day 2 — Provider migration + why Riverpod exists
 - [ ] Day 3 — FutureProvider + AsyncValue weather app
 - [ ] Day 4 — AsyncNotifierProvider full CRUD todo app
@@ -69,6 +69,7 @@ Real code. Real learning. Real growth.
 - [ ] Weekend — Social feed app (pagination + optimistic updates)
 
 ### Week 2 — Advanced Riverpod *(upcoming)*
+
 - [ ] Day 1 — .family modifier deep dive
 - [ ] Day 2 — autoDispose + keepAlive + cache strategies
 - [ ] Day 3 — Provider composition + dependency chains
@@ -77,6 +78,7 @@ Real code. Real learning. Real growth.
 - [ ] Weekend — Real-time chat app with Firebase + Riverpod
 
 ### Week 3 — Clean Architecture *(upcoming)*
+
 - [ ] Day 1 — Domain layer: Entities + Repository contracts
 - [ ] Day 2 — Data layer: Models + DataSources + Repo impl
 - [ ] Day 3 — Dependency injection with Riverpod
@@ -85,6 +87,7 @@ Real code. Real learning. Real growth.
 - [ ] Weekend — Full e-commerce app (clean arch)
 
 ### Week 4 — Testing + Flutter Internals *(upcoming)*
+
 - [ ] Day 1 — Unit testing Riverpod Notifiers
 - [ ] Day 2 — Widget testing with provider overrides
 - [ ] Day 3 — Flutter rendering: Widget/Element/RenderObject
@@ -98,30 +101,30 @@ Real code. Real learning. Real growth.
 
 | # | Project | Tech | Status | Link |
 |---|---------|------|--------|------|
-| 1 | InheritedWidget Counter | Flutter | 🔄 Building | - |
-| 2 | Riverpod Weather App | Flutter + Riverpod | ⏳ | - |
-| 3 | Todo App | Flutter + Riverpod | ⏳ | - |
-| 4 | Social Feed | Flutter + Riverpod | ⏳ | - |
-| 5 | Chat App | Flutter + Firebase | ⏳ | - |
-| 6 | E-Commerce App | Flutter + Clean Arch | ⏳ | - |
-| 7 | Killer App (TBD) | Full Stack | ⏳ | - |
+| 1 | InheritedWidget Counter | Flutter | ✅ Done | [View](https://github.com/MuhammadZubair011/flutter-engineer-90days/tree/main/month-01-riverpod-mastery/week-01-foundation/day1_inherited_widget) |
+| 2 | Riverpod Weather App | Flutter + Riverpod | ⏳ Upcoming | - |
+| 3 | Todo App | Flutter + Riverpod | ⏳ Upcoming | - |
+| 4 | Social Feed | Flutter + Riverpod | ⏳ Upcoming | - |
+| 5 | Chat App | Flutter + Firebase | ⏳ Upcoming | - |
+| 6 | E-Commerce App | Flutter + Clean Arch | ⏳ Upcoming | - |
+| 7 | Killer App (TBD) | Full Stack | ⏳ Upcoming | - |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-Flutter · Dart · Riverpod · Clean Architecture
+**Frontend**  
+Flutter · Dart · Riverpod · Clean Architecture  
 Go Router · Dio · Hive · Drift
 
-**Backend**
-Firebase (Auth, Firestore, Functions, FCM, Storage)
+**Backend**  
+Firebase (Auth, Firestore, Functions, FCM, Storage)  
 Supabase (Postgres, Auth, Realtime, Storage)
 
-**DevOps**
+**DevOps**  
 GitHub Actions · Fastlane · Firebase App Distribution
 
-**AI Tools**
+**AI Tools**  
 Cursor IDE · Claude AI
 
 ---
@@ -138,11 +141,11 @@ Cursor IDE · Claude AI
 flutter-engineer-90days/
 ├── month-01-riverpod-mastery/
 │   ├── week-01-foundation/
-│   │   ├── 01_inherited_widget/
-│   │   ├── 02_provider_migration/
-│   │   ├── 03_riverpod_basics/
-│   │   ├── 04_async_notifier/
-│   │   └── 05_ref_patterns/
+│   │   ├── day1_inherited_widget/
+│   │   ├── day2_provider_migration/
+│   │   ├── day3_riverpod_basics/
+│   │   ├── day4_async_notifier/
+│   │   └── day5_ref_patterns/
 │   ├── week-02-advanced-patterns/
 │   ├── week-03-clean-architecture/
 │   └── week-04-testing/
@@ -161,10 +164,10 @@ flutter-engineer-90days/
 
 ## 🔗 Connect
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/m-zubair011/)
+- 💼 LinkedIn: [Muhammad Zubair](https://www.linkedin.com/in/m-zubair011/)
 - 📍 Rawalpindi, Pakistan
 
 ---
 
-*"The expert in anything was once a beginner 
+*"The expert in anything was once a beginner  
 who refused to give up."*
