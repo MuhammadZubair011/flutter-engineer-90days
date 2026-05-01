@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day1_inherited_widget/day1_inherited_widget.iml" filepath="$PROJECT_DIR$/day1_inherited_widget/day1_inherited_widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_inherited_widget/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/day1_inherited_widget/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flutter-engineer-90days.iml" filepath="$PROJECT_DIR$/.idea/flutter-engineer-90days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_inherited_widget/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/day1_inherited_widget/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+</project>
