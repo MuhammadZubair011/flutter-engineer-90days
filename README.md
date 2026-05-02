@@ -131,9 +131,10 @@ Cursor IDE · Claude AI
 
 ## 📊 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadZubair011&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZubair011&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZubair011&show_icons=true&theme=dark&hide_border=true)
+![Contribution Graph](https://ghchart.rshah.org/00E5C8/MuhammadZubair011)
+
 
 ---
 
