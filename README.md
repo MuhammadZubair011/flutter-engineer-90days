@@ -58,16 +58,16 @@ Real code. Real learning. Real growth.
 
 ## 📅 Daily Progress Log
 
-### 🔄 Week 1 — Riverpod Foundation
-> Understanding state management from the roots
+### 🔄 Week 1 — State Management: From Roots to Riverpod
 
 - [x] Day 1 — Raw InheritedWidget counter (no packages) ✅
-- [x] Day 2 — Provider migration + why Riverpod exists
-- [ ] Day 3 — FutureProvider + AsyncValue weather app
-- [ ] Day 4 — AsyncNotifierProvider full CRUD todo app
-- [ ] Day 5 — ref.watch vs ref.read vs ref.listen
+- [x] Day 2 — Provider: ChangeNotifier + context.watch vs context.read ✅
+- [ ] Day 3 — Riverpod basics: ProviderScope + FutureProvider + AsyncValue
+- [ ] Day 4 — Riverpod: NotifierProvider + full CRUD todo app
+- [ ] Day 5 — Riverpod: ref.watch vs ref.read vs ref.listen
 - [ ] Weekend — Social feed app (pagination + optimistic updates)
 
+      
 ### Week 2 — Advanced Riverpod *(upcoming)*
 
 - [ ] Day 1 — .family modifier deep dive
