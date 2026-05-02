@@ -62,7 +62,7 @@ Real code. Real learning. Real growth.
 
 - [x] Day 1 — Raw InheritedWidget counter (no packages) ✅
 - [x] Day 2 — Provider: ChangeNotifier + context.watch vs context.read ✅
-- [ ] Day 3 — Riverpod basics: ProviderScope + FutureProvider + AsyncValue
+- [x] Day 3 — Riverpod basics: ProviderScope + FutureProvider + AsyncValue
 - [ ] Day 4 — Riverpod: NotifierProvider + full CRUD todo app
 - [ ] Day 5 — Riverpod: ref.watch vs ref.read vs ref.listen
 - [ ] Weekend — Social feed app (pagination + optimistic updates)
@@ -101,8 +101,8 @@ Real code. Real learning. Real growth.
 
 | # | Project | Tech | Status | Link |
 |---|---------|------|--------|------|
-| 1 | InheritedWidget Counter | Flutter | ✅ Done | [View](https://github.com/MuhammadZubair011/flutter-engineer-90days/tree/main/month-01-riverpod-mastery/week-01-foundation/day1_inherited_widget) |
-| 2 | Riverpod Weather App | Flutter + Riverpod | ⏳ Upcoming | - |
+| 1 | InheritedWidget Counter | Flutter | ✅ Done | |
+| 2 | Riverpod Weather App | Flutter + Riverpod | ✅ Done | - |
 | 3 | Todo App | Flutter + Riverpod | ⏳ Upcoming | - |
 | 4 | Social Feed | Flutter + Riverpod | ⏳ Upcoming | - |
 | 5 | Chat App | Flutter + Firebase | ⏳ Upcoming | - |
