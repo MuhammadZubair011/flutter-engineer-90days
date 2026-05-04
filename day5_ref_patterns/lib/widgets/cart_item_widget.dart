@@ -77,7 +77,7 @@ class CartItemWidget extends ConsumerWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 10),
                 child: Text(
                   '${item.quantity}',
-                  style: const TextStyle(ll
+                  style: const TextStyle(
                     fontSize: 16,
                     fontWeight: FontWeight.bold,
                     color: Color(0xFF1A1A2E),
