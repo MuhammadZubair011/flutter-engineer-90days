@@ -6,6 +6,15 @@
       <excludeFolder url="file://$MODULE_DIR$/day2_provider_migration/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/day2_provider_migration/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/day2_provider_migration/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day3_riverpod_basics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day3_riverpod_basics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day3_riverpod_basics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day4_notifier_provider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day4_notifier_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day4_notifier_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day5_ref_patterns/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day5_ref_patterns/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day5_ref_patterns/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
