@@ -29,8 +29,8 @@ Real code. Real learning. Real growth.
 
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 1 | InheritedWidget → Provider → Riverpod Foundation | 🔄 In Progress |
-| Week 2 | Advanced Riverpod (family, autoDispose, composition) | ⏳ Upcoming |
+| Week 1 | InheritedWidget → Provider → Riverpod Foundation | ✅ Completed|
+| Week 2 | Advanced Riverpod (family, autoDispose, composition) | 🔄 In Progress|
 | Week 3 | Clean Architecture + Riverpod + DI | ⏳ Upcoming |
 | Week 4 | Testing + Flutter Rendering Internals | ⏳ Upcoming |
 
@@ -63,14 +63,14 @@ Real code. Real learning. Real growth.
 - [x] Day 1 — Raw InheritedWidget counter (no packages) ✅
 - [x] Day 2 — Provider: ChangeNotifier + context.watch vs context.read ✅
 - [x] Day 3 — Riverpod basics: ProviderScope + FutureProvider + AsyncValue
-- [ ] Day 4 — Riverpod: NotifierProvider + full CRUD todo app
-- [ ] Day 5 — Riverpod: ref.watch vs ref.read vs ref.listen
-- [ ] Weekend — Social feed app (pagination + optimistic updates)
+- [x] Day 4 — Riverpod: NotifierProvider + full CRUD todo app
+- [x] Day 5 — Riverpod: ref.watch vs ref.read vs ref.listen
+- [x] Weekend — Social feed app (pagination + optimistic updates)
 
       
 ### Week 2 — Advanced Riverpod *(upcoming)*
 
-- [ ] Day 1 — .family modifier deep dive
+- [x] Day 1 — .family modifier deep dive
 - [ ] Day 2 — autoDispose + keepAlive + cache strategies
 - [ ] Day 3 — Provider composition + dependency chains
 - [ ] Day 4 — Code generation with @riverpod annotation
@@ -103,7 +103,7 @@ Real code. Real learning. Real growth.
 |---|---------|------|--------|------|
 | 1 | InheritedWidget Counter | Flutter | ✅ Done | |
 | 2 | Riverpod Weather App | Flutter + Riverpod | ✅ Done | - |
-| 3 | Todo App | Flutter + Riverpod | ⏳ Upcoming | - |
+| 3 | Todo App | Flutter + Riverpod | ✅ Done  | - |
 | 4 | Social Feed | Flutter + Riverpod | ⏳ Upcoming | - |
 | 5 | Chat App | Flutter + Firebase | ⏳ Upcoming | - |
 | 6 | E-Commerce App | Flutter + Clean Arch | ⏳ Upcoming | - |
