@@ -1,0 +1,26 @@
+class Product{
+  final String id;
+  final String name;
+  final double price;
+  final String description;
+  final String categoryId;
+
+  const Product({
+   required this.id,
+   required this.name,
+   required this.price,
+   required this.description,
+    required this.categoryId
+});
+
+}
+
+class CartItem{
+  final Product product;
+  final int quantity;
+
+  const CartItem({
+   required this.product,
+   required this.quantity
+});
+}
