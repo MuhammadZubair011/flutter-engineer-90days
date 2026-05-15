@@ -4,7 +4,7 @@ import 'package:fluttermart/core/constants/app_constants.dart';
 import 'package:fluttermart/models/product_model.dart';
 
 final productProvider = FutureProvider<List<Product>> ((ref) async{
-  await Future.delayed(const Duration(seconds: 1));
+  await Future.delayed(const Duration(milliseconds: 800));
 
-  return AppConstants.fakeProduct;
+  return AppConstants.fakeProducts;
 });
