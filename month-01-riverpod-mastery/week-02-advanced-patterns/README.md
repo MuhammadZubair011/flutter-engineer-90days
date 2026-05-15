@@ -3,7 +3,7 @@
 > Concepts implemented inside FlutterMart app.
 
 ## 📚 Concepts Covered
-- [ ] Day 6  — .family modifier
+- [x] Day 6  — .family modifier
 - [ ] Day 7  — autoDispose + keepAlive
 - [ ] Day 8  — Provider composition
 - [ ] Day 9  — @riverpod code generation
